@@ -1,0 +1,40 @@
+application: stav-mobilniho-webu
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+  secure: always
+
+#- url: .*
+#  script: main.app
+
+- url: /
+  static_files: build/index.html
+  upload: build/index\.html$
+  secure: always
+
+- url: /(.+)/
+  static_files: build/\1/index.html
+  upload: build/.+/index\.html$
+  secure: always
+
+- url: /(.*\.(gif|png|jpg))$
+  static_files: build/\1
+  upload: build/.*\.(gif|png|jpg)$
+  expiration: "90d"
+  secure: always
+
+- url: /(.*)$
+  static_files: build/\1
+  upload: build/.*$
+  expiration: "30m"
+  secure: always
+
+libraries:
+- name: webapp2
+  version: "2.5.2"
