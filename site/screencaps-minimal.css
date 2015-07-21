@@ -1,0 +1,38 @@
+
+body {
+    width: 230rem
+}
+
+div.site {
+    float: left;
+    padding: 0.1rem
+}
+
+div.site.friendly-yes .screencap {
+/*     border-color: green; */
+}
+
+div.site.friendly-no .screencap {
+    border-color: red;
+}
+
+.screencap {
+    border: 0.2rem solid lightgray;
+    width: 4rem;
+}
+
+.broken-yes {
+/*     display: none; */
+}
+
+.url {
+    display: none;
+}
+
+.friendly {
+    display: none;
+}
+
+.broken {
+    display: none;
+}
