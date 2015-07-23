@@ -8,7 +8,7 @@
 /uk/
 /whole-screenshots-backup/
 /site/index.html
-*.scss
+*.css
 *.css.map
 /stav-mobilniho-webu/.idea/
 /stav-mobilniho-webu/build/
