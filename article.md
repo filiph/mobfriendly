@@ -28,7 +28,7 @@ Jeho výsledky, metodologii i software, který mi při něm pomáhal, dávám k 
 
 <!-- END BARCHART -->
 
-Nutno podotknout že ani 81 %, kterými se může chlubit Británie, není žádný ideální stav. Zvláště když si uvědomíme, že se bavíme o těch největších webech, a že jsme v roce 2015.
+Nutno podotknout, že ani 81 %, kterými se může chlubit Británie, není žádný ideální stav. Zvláště když si uvědomíme, že se bavíme o těch největších webech, a že jsme v roce 2015.
 
 <!-- LINECHART -->
 
@@ -85,7 +85,7 @@ Implementace:
 
 ### Zaznamenávání
 
-Vybrané stránky jsem navštěvoval automatickým skriptem, zaznamenával průběh jejich načítání a dělal screenshoty. (Skript je k dispozici ke stažení.)
+Vybrané stránky jsem navštěvoval automatickým skriptem, zaznamenával průběh jejich načítání a dělal screenshoty. (Skript je [k dispozici](#software).)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/nFsQFubibO4" frameborder="0" allowfullscreen></iframe>
 
@@ -144,7 +144,7 @@ Během asi tří hodin vznikl jednoduchý (a extrémně neuhlazený) nástroj, k
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/P70CC1NcYws" frameborder="0" allowfullscreen></iframe>
 
-Nástroj je pro zájemce k dispozici.[^9]
+Nástroj je pro zájemce k dispozici.[^9] Kód tohoto programu a všech různých dalších skriptíků, které jsem si napsal pro tvorbu tohoto výzkumu, jsem umístil na [svůj github](https://github.com/filiph/mobfriendly).
 
 ## Závěry
 
