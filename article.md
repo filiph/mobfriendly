@@ -54,6 +54,7 @@ Prohlédnout si samotná zdrojová data (tj. screenshoty) si můžete pro jednot
 * [Česká republika (.cz)](cz/)
 * [Německo (.de)](de/)
 * [Polsko (.pl)](pl/)
+* [Rumunsko (.ro)](ro/) (přidáno až 25. září, ale data jsou ze stejné doby jako ostatní)
 * [Řecko (.gr)](gr/)
 * [Velká Británie (.uk)](uk/)
 
