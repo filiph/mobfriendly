@@ -9,7 +9,7 @@ from markdown.extensions.smarty import SmartyExtension
 from wand.image import Image
 from rank import get_sites_from_csv, SiteInfo, get_output_file_from_country
 
-countries = ["cz", "de", "gr", "pl", "uk"]
+countries = ["cz", "de", "gr", "pl", "uk", "ro"]
 
 html_head = u"""
     <html><head><meta charset="utf-8">
